@@ -83,6 +83,10 @@ public class SeedGen {
         frame.setVisible(true);
         buttonCopy.addActionListener(new ActionListener()
         {
+            /**
+             * listener for copy button
+             * @param le
+             */
             public void actionPerformed(ActionEvent le) {
                 StringSelection stringSelection = new StringSelection (seed.getText());
                 Clipboard clpbrd = Toolkit.getDefaultToolkit ().getSystemClipboard ();
