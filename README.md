@@ -1,3 +1,3 @@
 # IOTA-SEED-GEN
 Simple Java program to generate a secure seed for IOTA
-http://www.jeremiahstillings.net/wp/?page_id=137
+https://www.jeremiahstillings.net/?page_id=137
